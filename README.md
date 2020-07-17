@@ -10,3 +10,4 @@
 - Long Short Term Memory Networks with Python
 - python速查表
 - 统计自然语言处理基础(中文版)链接：https://pan.baidu.com/s/1BJGJah8CfPvOCtlYiQ9N2Q 提取码：80l8
+- 机器学习-周志华 链接：https://pan.baidu.com/s/1_UrmOhpAYY_9miXhUOeCYw  提取码：1w70
