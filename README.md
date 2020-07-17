@@ -6,3 +6,4 @@
 - 感谢各位大佬的资源
 - Linux原版：http://linuxcommand.org/tlcl.php
 - Linux中文翻译：https://www.kancloud.cn/thinkphp/linux-command-line/39431
+- Long Short Term Memory Networks with Python
