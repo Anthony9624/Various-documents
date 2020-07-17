@@ -1,0 +1,12 @@
+cuda在我的电脑中改路径
+ 进cmd，修改conda源：
+	conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+	conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+	conda config --set show_channel_urls yes
+
+修改pip源：
+	pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+
+安装python虚拟子环境：conda create -n aaa python=3.6	
+	activate aaa
+conda install cudatoolkit=10.0 cudnn=7.6.0
