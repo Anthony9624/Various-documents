@@ -1,3 +1,11 @@
+相关下载：
+Python(选择合适的版本)：https://www.python.org/downloads/
+PyCharm(别的编译器也可以)：https://www.jetbrains.com/pycharm/download/
+Anaconda：https://www.anaconda.com/products/individual
+cuda：https://developer.nvidia.com/cuda-downloads
+Git：https://git-scm.com/downloads
+cudnn：https://developer.nvidia.com/cudnn（该注册就注册哈）
+（这里建议是cuda10与cudnn7.6.0一起使用）
 cuda在我的电脑中改路径
  进cmd，修改conda源：
 	conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
