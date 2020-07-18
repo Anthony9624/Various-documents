@@ -14,3 +14,4 @@
 - 神经网路与深度学习 链接：https://pan.baidu.com/s/14Ecdv1wsfDQ1aMqcAJX6oQ 提取码：1h0j
 - TensorFlow全新的数据读取方式：Dataset API入门教程 https://zhuanlan.zhihu.com/p/30751039
 - 凸优化：https://web.stanford.edu/class/ee364a/lectures.html
+- (邱锡鹏)神经网络与深度学习：链接：https://pan.baidu.com/s/1wn-a5ld8vQ2R8UbnjVeY3g 提取码：siga 
