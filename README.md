@@ -17,3 +17,6 @@
 - 凸优化：https://web.stanford.edu/class/ee364a/lectures.html
 - (邱锡鹏)神经网络与深度学习：链接：https://pan.baidu.com/s/1wn-a5ld8vQ2R8UbnjVeY3g 提取码：siga 
 - NLP_PPT：链接：https://pan.baidu.com/s/1WD9E8sSFekX84d4Pp4HMKw 提取码：qlom
+- 关于讲解链接：* https://blog.csdn.net/qq_33431368/article/details/99859131
+               * https://blog.csdn.net/zandaoguang/article/details/107308458
+               * https://blog.csdn.net/weixin_44441131/article/details/106474456
