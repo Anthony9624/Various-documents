@@ -16,6 +16,7 @@
 - 关于讲解链接：* https://blog.csdn.net/qq_33431368/article/details/99859131
                /n https://blog.csdn.net/zandaoguang/article/details/107308458
                /n https://blog.csdn.net/weixin_44441131/article/details/106474456
-
-
+- 机器学习笔记：http://www.ai-start.com/ml2014/   
+- 深度学习笔记：http://www.ai-start.com/dl2017/
+- Python手册：https://www.runoob.com/python3/python3-set.html     
 
