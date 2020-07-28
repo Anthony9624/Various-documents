@@ -1,9 +1,6 @@
 
 # Various-documents 
 #### Various-documents for deep learning 
-
-- 各种神经网络框架的中文文档整理
-- 感谢各位大佬的资源
 - 相关链接：
 - Linux原版：http://linuxcommand.org/tlcl.php
 - Linux中文翻译：https://www.kancloud.cn/thinkphp/linux-command-line/39431
@@ -19,3 +16,6 @@
 - 关于讲解链接：* https://blog.csdn.net/qq_33431368/article/details/99859131
                /n https://blog.csdn.net/zandaoguang/article/details/107308458
                /n https://blog.csdn.net/weixin_44441131/article/details/106474456
+
+
+
