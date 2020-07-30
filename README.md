@@ -8,7 +8,7 @@
 - 机器学习-周志华 链接：https://pan.baidu.com/s/1_UrmOhpAYY_9miXhUOeCYw  提取码：1w70
 - 统计学习方法-李航 链接：https://pan.baidu.com/s/1Sx2K6pGAqiI-muUdYBvc9g 提取码：3t05 
 - Tensorflow 深度学习框架 链接：https://pan.baidu.com/s/1Mz6LP2tvJeNTJLnWbmxqyA 提取码：p9kq
-- 神经网路与深度学习 链接：https://pan.baidu.com/s/14Ecdv1wsfDQ1aMqcAJX6oQ 提取码：1h0j
+- 神经网络与深度学习 链接：https://pan.baidu.com/s/14Ecdv1wsfDQ1aMqcAJX6oQ 提取码：1h0j
 - TensorFlow全新的数据读取方式：Dataset API入门教程 https://zhuanlan.zhihu.com/p/30751039
 - 凸优化：https://web.stanford.edu/class/ee364a/lectures.html
 - (邱锡鹏)神经网络与深度学习：链接：https://pan.baidu.com/s/1wn-a5ld8vQ2R8UbnjVeY3g 提取码：siga 
