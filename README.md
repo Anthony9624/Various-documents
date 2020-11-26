@@ -20,5 +20,6 @@
 - 深度学习笔记：http://www.ai-start.com/dl2017/
 - 深度学习算法手册：http://www.huaxiaozhuan.com/
 - 动手学深度学习：https://zh.d2l.ai/
-- Python手册：https://www.runoob.com/python3/python3-set.html     
+- Python手册：https://www.runoob.com/python3/python3-set.html  
+- 台大李宏毅: http://speech.ee.ntu.edu.tw/~tlkagk/
 - 最后，一首歌送给同样在路上的你，路上虽辛苦，但终究会到达终点，加油！ 《in》
