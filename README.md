@@ -22,4 +22,5 @@
 - 动手学深度学习：https://zh.d2l.ai/
 - Python手册：https://www.runoob.com/python3/python3-set.html  
 - 台大李宏毅: http://speech.ee.ntu.edu.tw/~tlkagk/
+- 比较全的文章查询网站:https://arxiv.xixiaoyao.cn/
 - 最后，一首歌送给同样在路上的你，路上虽辛苦，但终究会到达终点，加油！ 《in》
