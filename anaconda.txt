@@ -18,3 +18,13 @@ cuda在我的电脑中改路径
 安装python虚拟子环境：conda create -n aaa python=3.6	
 	activate aaa
 conda install cudatoolkit=10.0 cudnn=7.6.0
+
+
+
+
+
+注:(1) 如果需要与版本一模一样的CUDA和CUDNN可以参考这个网站:https://docs.nvidia.com/deeplearning/cudnn/support-matrix/index.html
+   这里在强调一下，版本最好是完全对应，实测 10 和 10.1 都是不一样的
+   (2) 尤其是当你的代码是老代码的时候，最好是使用对应的版本，可以少踩很多坑。如果是重头开始学，当然是可以从最新的开始,
+       这里是Pytorch的官方网站:https://pytorch.org/get-started/previous-versions/
+   (3) 历史版本安装真的很刚需。还有一个小trick假如你不知道软件的版本，可以看你的代码开发时间对应的版本发布的时间，大概涉及到的几个版本，等一下会在依赖库兼容里面解释。
